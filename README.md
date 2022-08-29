@@ -1,4 +1,4 @@
-# Bascom_avr- Password based Lock
+AVR Password based Lock
 
 <p align="center">
 <img src="./Pic.jpg" height="240">
